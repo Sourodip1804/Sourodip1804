@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sourodip1804&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=Sourodip1804&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sourodip1804&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://komarev.com/ghpvc/?username=Sourodip1804&icon=1&color=13)](https://visitcount.itsvg.in)
+
