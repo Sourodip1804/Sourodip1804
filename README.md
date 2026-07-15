@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!--
 <h1 align="center">Hi 👋, I'm Sourodip Mahato</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -52,3 +53,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourodip1804&" alt="sourodip1804" /></p>
 
+-->
