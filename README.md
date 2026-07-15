@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Sourodip1804&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sourodip1804&icon=1&color=13)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourodip1804&label=Profile%20views&color=0e75b6&style=flat" alt="sourodip1804" /> </p>
 
